@@ -190,8 +190,8 @@ To connect to real LLMs, replace mock_llm_response() with an actual API call (e.
 
 
 # Result: 
-The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
- Understand how to tailor LLM prompts to real-life applications.
- Foster creativity by designing features suited to their personal or academic lives.
- Learn prompt engineering techniques for optimal interaction with AI tools.
- Experience the versatility and utility of generative AI in solving everyday problems.
+The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models.Students were able to:
+ Understand how to tailor LLM prompts to real-life applications.
+ Foster creativity by designing features suited to their personal or academic lives.
+ Learn prompt engineering techniques for optimal interaction with AI tools.
+ Experience the versatility and utility of generative AI in solving everyday problems.
